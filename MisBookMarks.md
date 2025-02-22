@@ -62,18 +62,25 @@
 * Set up an Apache -PHP server with docker [Docker fror Web Developers](https://dockerwebdev.com/tutorials/docker-php-development/)
 ## Networking
 * Oracle VirtualBox networking [Oracle Blogs](https://blogs.oracle.com/scoter/post/oracle-vm-virtualbox-networking-options-and-how-to-manage-them)
+## Tools
+* n8n tutorials playlists [aprende n8n](https://www.youtube.com/@aprenden8n123/playlists)
 ## GitHub
 * Como subir un proyecto en GitHub [Klaus cgonzalezdai](https://gist.github.com/cgonzalezdai/cc33db72a6fe5178637aabb562eae35c)
 * Git para principiantes en 15 minutos [deivchoi](https://www.youtube.com/watch?v=vlCXdvcgiE0)
 ## Docker
 * Docker comose. Despliegue de aplicaciones con docker-compose [adictosaltrabajo.com](https://adictosaltrabajo.com/2022/12/19/despliegue-de-aplicaciones-con-docker-compose/)
+* Como construir un servidor apache con php 1 [How to Geek](https://www.howtogeek.com/devops/how-to-use-docker-to-containerise-php-and-apache/)
+* Como construir un servidor apache con php 2 [Medium](https://iammohaiminul.medium.com/run-php-application-using-docker-with-apache-and-ssl-certificates-327a8ee2056b)
+* Docker Docs [Docker Docs](https://docs.docker.com/)
 ## UX Design
 * 7 best wireframe apps [zapier.om](https://zapier.com/blog/best-wireframe-tools/#moqups)
 ## English Learning
 * BBC Learning English. 6 minute Englsish [Money and Life Style](https://www.youtube.com/watch?v=zsOnAHAY6to&list=PLcetZ6gSk968GhcTTptpO6pvBV4UuHB3z&index=2)
-* BBC Learning English. 6 minute Englsish [Two Nuns Embezzle Money to Travel to Las Vegas and gambling](https://www.youtube.com/watch?v=1I4FK_a-XD0&list=PLcetZ6gSk968GhcTTptpO6pvBV4UuHB3z&index=7). The CNN source of the new [Nuns embezzle ‘substantial’ amount of funds from church school, monsignor says](https://edition.cnn.com/2018/12/09/us/nuns-accused-embezzle-school-funds/index.html)
+* BBC Learning English. 6 minute Englsish [Two Nuns Embezzle Money to Travel to Las Vegas and gambling](https://www.youtube.com/watch?v=1I4FK_a-XD0&list=PLcetZ6gSk968GhcTTptpO6pvBV4UuHB3z&index=7). 
+* The CNN source of the new [Nuns embezzle ‘substantial’ amount of funds from church school, monsignor says](https://edition.cnn.com/2018/12/09/us/nuns-accused-embezzle-school-funds/index.html)
 * ABC News. [Nuns embezzle money](https://abcnews.go.com/US/nuns-misappropriated-500k-school-funds-spending-gambling-trips/story?id=59715869)
 * The Guardian: [Nuns embezzle money](https://www.theguardian.com/us-news/2018/dec/11/nuns-embezzling-school-funds-las-vegas-gambling-trips)
 * English with Greg. [You tube videos of English with Greg](https://www.youtube.com/@EnglishWithGreg/videos)
 * All the conditionals explained [English with Greg](https://www.youtube.com/watch?v=KVRozKu2pZs)
+* Inglés para perezosos [Inglés para perezosos](https://www.youtube.com/@inglesparaperezosos/videos)
 
