@@ -9,6 +9,8 @@
 * Simulación con Proteus 8 [Kriss Electronics](https://www.youtube.com/watch?v=P5qEspAtW40&t=13s)
 ## Entornos, IDEs
 * Instalación de PlatformIO [Programar Fácil](https://programarfacil.com/blog/arduino-blog/platformio/)
+## Instalaciones eléctricas
+* Instalaciones eléctricas y dispositivos en Baja, Media y Alta tensión [The ElectricalGuy](https://www.youtube.com/@GauravJ/playlists)
 ## Industrial Automation
 * Industrial Automation Playlist [RealPars](https://www.youtube.com/@realpars/playlists)
 * Industrial Automation Site [RealPars.com](https://realpars.com)
@@ -20,7 +22,12 @@
 * Setting Up CodeSys OPC UA [FactoryIO](https://docs.factoryio.com/tutorials/codesys/setting-up/codesys-opc-ua-sp17/)
 * Neumática e Hidráulica [Jose Luis Sarmiento](https://www.youtube.com/@JoseLuisSarmiento/playlists)
 * Sitio de descarga del tia portal [ElectroAll](https://www.electroallweb.com/index.php/2020/05/10/como-descargar-tia-portal-v16/)
+* Descarga de FactoryIO para Tia Portal V16 [ElectroAll](https://www.electroallweb.com/index.php/2021/11/22/descargar-e-instalar-factory-io-gratis/)
 * Temporizadores en Tia Portal [Ingelearn](https://ingelearn.com/temporizadores-en-tia-portal-como-funcionan/)
 * Información básica sobre PLCs de vearios fabricantes (sobre todo Simatic) [PLCDev](https://www.plcdev.com/)
 * Instrumentación industrial [Instrumentation Academy](https://www.youtube.com/@instrumentationacademy/playlists)
 * Curso de programación con Tia Portal [Programación Multidisciplinar](https://www.youtube.com/playlist?list=PLPzFrxDE1SYgRJ5kaU2tCZsCkoFOSS90r)
+* Solución de credenciales en CodeSys [Marcelo Mancilla](https://www.youtube.com/watch?v=iBZD0OR8tbQ)
+## Estructuración de plantas industriales
+* Reference designation system [RDS 81346](https://www.youtube.com/playlist?list=PLgiZBoArEtqGV2au4o70-qMFzj5cKKR5f)
+* EPLAN Introducción a la IEC 81346 [Eplan](https://www.youtube.com/watch?v=RPs8XqWLE9U)

@@ -16,6 +16,16 @@ Es posible que algunos vídeos estén ordenados didácticamente de abajo a arrib
 * Calcular raices de polinomios [The math sorcerer](https://www.youtube.com/playlist?list=PLO1y6V1SXjjOLVr7rpJkvRcvyzxAt0euu)
 * Algebra. A classic approach [John Blakely](http://www.jonblakely.com/)
 * Feynman's trick. Differentiate under the sign of integral [Zaharia Burghelea (github.io)](https://zackyzz.github.io/feynman.html)
+# Ecuaciones diferenciales y ecuaciones en diferencias
+* Introducción a la diferencial total [The math Sorcerer](https://www.youtube.com/playlist?list=PLO1y6V1SXjjNbiXbitY9BSahi53-KO9rx)
+* Variación de parámetros [The math Sorcerer](https://www.youtube.com/playlist?list=PLO1y6V1SXjjOAPmMjQNYDV-eMQYnYYrgH)
+* Coeficientes indeterminados, aproximación por superposición [The Math Sorcerer](https://www.youtube.com/playlist?list=PLO1y6V1SXjjPioRqX2ui2rHHjPuXm_exk)
+* Ecuaciones Lineales Homogéneas [The Math Sorcerer](https://www.youtube.com/playlist?list=PLO1y6V1SXjjMroztey1kVAXuvVqOeC0-u)
+* Ecuaciones diferenciales homogéneas con coeficientes constantes [The Math Sorcerer](https://www.youtube.com/playlist?list=PLO1y6V1SXjjNQrz0fpZ0rMspIUCpR-ypx)
+* Teoría preliminar de las ecuaciones diferenciales [The Math Sorcerer](https://www.youtube.com/playlist?list=PLO1y6V1SXjjNXQOczQ_oCsWL9FNQXpQK0)
+* Métodos de solución por sustitución [The Math Sorcerer](https://www.youtube.com/playlist?list=PLO1y6V1SXjjNAdh5jpvrQ3_5RVynUz1wH)
+* Ecuaciones diferenciales exactas [The Math Sorcerer](https://www.youtube.com/playlist?list=PLO1y6V1SXjjM6rg4xXitjUNkyaVNaCOT6)
+* Ecuaciones diferenciales lineales [The Math Sorcerer](https://www.youtube.com/playlist?list=PLO1y6V1SXjjPg2BnQqGIqeOZx4m1oVVkp)
 # Probabilidad y Estadística
 * ANOVA de dos vías [Stats and R](https://statsandr.com/blog/two-way-anova-in-r/)
 * ANOVA de una vía [Stats and R](https://statsandr.com/blog/how-to-one-way-anova-by-hand/)

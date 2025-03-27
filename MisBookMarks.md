@@ -83,4 +83,6 @@
 * English with Greg. [You tube videos of English with Greg](https://www.youtube.com/@EnglishWithGreg/videos)
 * All the conditionals explained [English with Greg](https://www.youtube.com/watch?v=KVRozKu2pZs)
 * Inglés para perezosos [Inglés para perezosos](https://www.youtube.com/@inglesparaperezosos/videos)
+* How to write a resignation letter [Michael Page](https://www.michaelpage.co.uk/advice/career-advice/making-your-next-career-move/resignation-letter-templates)
+
 
